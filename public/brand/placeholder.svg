@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="200" height="200" viewBox="0 0 200 200" role="img" aria-label="Görsel yüklenemedi">
+  <rect width="200" height="200" fill="#ebe7e1"/>
+  <rect x="8" y="8" width="184" height="184" fill="none" stroke="#d3cec6" stroke-width="2" stroke-dasharray="8 6"/>
+  <circle cx="100" cy="78" r="22" fill="#d3cec6"/>
+  <path d="M60 140c0-22 18-40 40-40s40 18 40 40z" fill="#d3cec6"/>
+  <text x="100" y="172" font-family="system-ui, sans-serif" font-size="12" fill="#7b7b78" text-anchor="middle">görsel yüklenemedi</text>
+</svg>

@@ -1,0 +1,27 @@
+# Bağımlılıklar ve build çıktıları
+node_modules/
+.next/
+out/
+build/
+*.tsbuildinfo
+next-env.d.ts
+
+# Sırlar — yalnızca örnek şablon paylaşılır
+.env*
+!.env.example
+
+# Günlükler ve geçici dosyalar
+*.log
+npm-debug.log*
+.DS_Store
+Thumbs.db
+
+# Editör / işletim sistemi
+.idea/
+.vscode/*
+!.vscode/extensions.json
+*.swp
+
+# Deploy
+.vercel/
+.netlify/

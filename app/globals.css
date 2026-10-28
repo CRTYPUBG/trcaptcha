@@ -1,0 +1,155 @@
+@import "tailwindcss";
+
+/* Class tabanlı dark mode: html.dark üzerinden çalışır (projede .dark class'ı toggle ediliyor) */
+@custom-variant dark (&:where(.dark, .dark *));
+
+@theme {
+  --font-sans: var(--font-geist-sans);
+  --font-mono: var(--font-geist-mono);
+
+  /* Intercom design tokens */
+  --color-canvas: #f5f1ec;
+  --color-surface-1: #ffffff;
+  --color-surface-2: #ebe7e1;
+  --color-ink: #111111;
+  --color-ink-muted: #626260;
+  --color-ink-subtle: #7b7b78;
+  --color-ink-tertiary: #9c9fa5;
+  --color-hairline: #d3cec6;
+  --color-hairline-soft: #ebe7e1;
+  --color-fin-orange: #ff5600;
+  --color-semantic-error: #c41c1c;
+  --color-semantic-success: #0bdf50;
+}
+
+body {
+  background-color: var(--color-canvas);
+  color: var(--color-ink);
+  transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+/* Sıcak, Intercom tonlarında dark palet (uygulama .dark class'ı ile değişir) */
+.dark {
+  color-scheme: dark;
+  --color-canvas: #131211;
+  --color-surface-1: #1c1a19;
+  --color-surface-2: #262423;
+  --color-ink: #f5f1ec;
+  --color-ink-muted: #a8a4a0;
+  --color-ink-subtle: #8a8683;
+  --color-ink-tertiary: #6e6a67;
+  --color-hairline: #38352f;
+  --color-hairline-soft: #2a2825;
+  --color-fin-orange: #ff6a26;
+  --color-semantic-error: #ff5a5a;
+  --color-semantic-success: #22e06a;
+}
+
+/* Utilities mapped to Intercom tokens */
+.bg-canvas {
+  background-color: var(--color-canvas);
+}
+.bg-surface-1 {
+  background-color: var(--color-surface-1);
+}
+.bg-surface-2 {
+  background-color: var(--color-surface-2);
+}
+.bg-ink {
+  background-color: var(--color-ink);
+}
+.bg-fin-orange {
+  background-color: var(--color-fin-orange);
+}
+.text-ink {
+  color: var(--color-ink);
+}
+.text-ink-muted {
+  color: var(--color-ink-muted);
+}
+.text-ink-subtle {
+  color: var(--color-ink-subtle);
+}
+.text-ink-tertiary {
+  color: var(--color-ink-tertiary);
+}
+.text-fin-orange {
+  color: var(--color-fin-orange);
+}
+.border-hairline {
+  border-color: var(--color-hairline);
+}
+.border-hairline-soft {
+  border-color: var(--color-hairline-soft);
+}
+
+@keyframes shake {
+  0%,
+  100% {
+    transform: translateX(0);
+  }
+  10%,
+  30%,
+  50%,
+  70%,
+  90% {
+    transform: translateX(-4px);
+  }
+  20%,
+  40%,
+  60%,
+  80% {
+    transform: translateX(4px);
+  }
+}
+.animate-shake {
+  animation: shake 0.4s ease-in-out;
+}
+@keyframes flash-green {
+  0% {
+    background-color: rgba(11, 223, 80, 0.2);
+  }
+  100% {
+    background-color: transparent;
+  }
+}
+.animate-flash-green {
+  animation: flash-green 0.6s ease-out;
+}
+@keyframes modal-fade-in {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+.animate-modal-fade {
+  animation: modal-fade-in 0.18s ease-out;
+}
+@keyframes modal-pop-in {
+  from {
+    opacity: 0;
+    transform: translateY(10px) scale(0.96);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0) scale(1);
+  }
+}
+.animate-modal-pop {
+  animation: modal-pop-in 0.22s cubic-bezier(0.34, 1.56, 0.64, 1);
+}
+/* Kare yüklenirken eski görsellerin yerini alan iskelet gövde */
+@keyframes skeleton-pulse {
+  0%,
+  100% {
+    opacity: 0.5;
+  }
+  50% {
+    opacity: 0.15;
+  }
+}
+.animate-skeleton {
+  animation: skeleton-pulse 1.4s ease-in-out infinite;
+}

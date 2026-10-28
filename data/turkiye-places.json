@@ -1,0 +1,1025 @@
+{
+  "version": "1.0.0",
+  "places": [
+    {
+      "id": "kapadokya-01",
+      "name": "Kapadokya",
+      "city": "Nevşehir",
+      "region": "İç Anadolu",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Kapadokya.jpg",
+      "source": "wikimedia",
+      "license": "CC-BY-SA",
+      "author": "Wikimedia Commons",
+      "isTurkish": true,
+      "tags": [
+        "balon",
+        "peri bacası",
+        "ünlü"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "pamukkale-01",
+      "name": "Pamukkale",
+      "city": "Denizli",
+      "region": "Ege",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Pamukkale.jpg/960px-Pamukkale.jpg",
+      "source": "wikimedia",
+      "license": "CC-BY-SA",
+      "author": "Wikimedia Commons",
+      "isTurkish": true,
+      "tags": [
+        "traverten",
+        "termal",
+        "beyaz"
+      ],
+      "difficulty": 1
+    },
+    {
+      "id": "ayasofya-01",
+      "name": "Ayasofya",
+      "city": "İstanbul",
+      "region": "Marmara",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Ayasofya.jpg/960px-Ayasofya.jpg",
+      "source": "wikimedia",
+      "license": "CC-BY-SA",
+      "author": "Wikimedia Commons",
+      "isTurkish": true,
+      "tags": [
+        "müzе",
+        "tarih",
+        "camii"
+      ],
+      "difficulty": 1
+    },
+    {
+      "id": "efes-01",
+      "name": "Efes Antik Kenti",
+      "city": "İzmir",
+      "region": "Ege",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Efes_Antik_Kenti.jpg/960px-Efes_Antik_Kenti.jpg",
+      "source": "wikimedia",
+      "license": "CC-BY-SA",
+      "author": "Wikimedia Commons",
+      "isTurkish": true,
+      "tags": [
+        "antik",
+        "kütüphane",
+        "roma"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "nemrut-01",
+      "name": "Nemrut Dağı",
+      "city": "Adıyaman",
+      "region": "Güneydoğu Anadolu",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Nemrut_Da%C4%9F%C4%B1.jpg/960px-Nemrut_Da%C4%9F%C4%B1.jpg",
+      "source": "wikimedia",
+      "license": "CC-BY-SA",
+      "author": "Wikimedia Commons",
+      "isTurkish": true,
+      "tags": [
+        "dağ",
+        "heykel",
+        "gunes"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "sumela-01",
+      "name": "Sümela Manastırı",
+      "city": "Trabzon",
+      "region": "Karadeniz",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/S%C3%BCmela_Manast%C4%B1r%C4%B1.jpg/960px-S%C3%BCmela_Manast%C4%B1r%C4%B1.jpg",
+      "source": "wikimedia",
+      "license": "CC-BY-SA",
+      "author": "Wikimedia Commons",
+      "isTurkish": true,
+      "tags": [
+        "manastır",
+        "kaya",
+        "karadeniz"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "galata-kulesi-01",
+      "name": "Galata Kulesi",
+      "city": "İstanbul",
+      "region": "Marmara",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Galata_Kulesi.jpg/960px-Galata_Kulesi.jpg",
+      "source": "wikimedia",
+      "license": "CC-BY-SA",
+      "author": "Wikimedia Commons",
+      "isTurkish": true,
+      "tags": [
+        "kule",
+        "istanbul",
+        "goruntu"
+      ],
+      "difficulty": 1
+    },
+    {
+      "id": "bogaz-koprusu-01",
+      "name": "15 Temmuz Şehitleri Köprüsü",
+      "city": "İstanbul",
+      "region": "Marmara",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/%C4%B0stanbul.jpg/960px-%C4%B0stanbul.jpg",
+      "source": "wikimedia",
+      "license": "CC-BY-SA",
+      "author": "Wikimedia Commons",
+      "isTurkish": true,
+      "tags": [
+        "köprü",
+        "bogaz",
+        "istanbul"
+      ],
+      "difficulty": 1
+    },
+    {
+      "id": "safranbolu-01",
+      "name": "Safranbolu",
+      "city": "Karabük",
+      "region": "Karadeniz",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Safranbolu.jpg/960px-Safranbolu.jpg",
+      "source": "wikimedia",
+      "license": "CC-BY-SA",
+      "author": "Wikimedia Commons",
+      "isTurkish": true,
+      "tags": [
+        "eski evler",
+        "unesco",
+        "tarihi çarşı"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "mardin-01",
+      "name": "Mardin",
+      "city": "Mardin",
+      "region": "Güneydoğu Anadolu",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Minaret_of_the_Great_Mosque_of_Mardin%2C_Turkey_2006.jpg/960px-Minaret_of_the_Great_Mosque_of_Mardin%2C_Turkey_2006.jpg",
+      "source": "wikimedia",
+      "license": "CC-BY-SA",
+      "author": "Wikimedia Commons",
+      "isTurkish": true,
+      "tags": [
+        "kaya evleri",
+        "tarih",
+        "guneydogu"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "gore-01",
+      "name": "Göreme",
+      "city": "Nevşehir",
+      "region": "İç Anadolu",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/9/97/G%C3%B6reme.jpg",
+      "source": "wikimedia",
+      "license": "CC-BY-SA",
+      "author": "Wikimedia Commons",
+      "isTurkish": true,
+      "tags": [
+        "peri bacası",
+        "vadik",
+        "kapadokya"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "oludeniz-01",
+      "name": "Ölüdeniz",
+      "city": "Muğla",
+      "region": "Akdeniz",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1c/%C3%96l%C3%BCdeniz.jpg",
+      "source": "wikimedia",
+      "license": "CC-BY-SA",
+      "author": "Wikimedia Commons",
+      "isTurkish": true,
+      "tags": [
+        "plaj",
+        "mavi lagun",
+        "kumsal"
+      ],
+      "difficulty": 1
+    },
+    {
+      "id": "salda-golu-01",
+      "name": "Salda Gölü",
+      "city": "Burdur",
+      "region": "Akdeniz",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Salda_Lake.jpg/960px-Salda_Lake.jpg",
+      "source": "wikimedia",
+      "license": "CC-BY-SA",
+      "author": "Wikimedia Commons",
+      "isTurkish": true,
+      "tags": [
+        "göl",
+        "beyaz kum",
+        "turkuaz"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "uzungol-01",
+      "name": "Uzungöl",
+      "city": "Trabzon",
+      "region": "Karadeniz",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Uzung%C3%B6l_Trabzon.jpg/960px-Uzung%C3%B6l_Trabzon.jpg",
+      "source": "wikimedia",
+      "license": "CC-BY-SA",
+      "author": "Wikimedia Commons",
+      "isTurkish": true,
+      "tags": [
+        "göl",
+        "dağ",
+        "yeşil"
+      ],
+      "difficulty": 1
+    },
+    {
+      "id": "ani-01",
+      "name": "Ani Harabeleri",
+      "city": "Kars",
+      "region": "Doğu Anadolu",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Ani_Harabeleri.jpg/960px-Ani_Harabeleri.jpg",
+      "source": "wikimedia",
+      "license": "CC-BY-SA",
+      "author": "Wikimedia Commons",
+      "isTurkish": true,
+      "tags": [
+        "harabe",
+        "antik",
+        "kars"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "bergama-01",
+      "name": "Bergama Antik Kenti",
+      "city": "İzmir",
+      "region": "Ege",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Pergamon_Acropolis.jpg/960px-Pergamon_Acropolis.jpg",
+      "source": "wikimedia",
+      "license": "CC-BY-SA",
+      "author": "Wikimedia Commons",
+      "isTurkish": true,
+      "tags": [
+        "akropol",
+        "antik",
+        "roma"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "hasankeyf-01",
+      "name": "Hasankeyf",
+      "city": "Batman",
+      "region": "Güneydoğu Anadolu",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Hasankeyf_01.jpg/960px-Hasankeyf_01.jpg",
+      "source": "wikimedia",
+      "license": "CC-BY-SA",
+      "author": "Wikimedia Commons",
+      "isTurkish": true,
+      "tags": [
+        "dicle",
+        "kaya",
+        "tarih"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "balikligol-01",
+      "name": "Balıklıgöl",
+      "city": "Şanlıurfa",
+      "region": "Güneydoğu Anadolu",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Bal%C4%B1kl%C4%B1g%C3%B6l%2C_Urfa_2015.jpg/960px-Bal%C4%B1kl%C4%B1g%C3%B6l%2C_Urfa_2015.jpg",
+      "source": "wikimedia",
+      "license": "CC-BY-SA",
+      "author": "Wikimedia Commons",
+      "isTurkish": true,
+      "tags": [
+        "göl",
+        "balık",
+        "inanç"
+      ],
+      "difficulty": 1
+    },
+    {
+      "id": "kiz-kulesi-01",
+      "name": "Kız Kulesi",
+      "city": "İstanbul",
+      "region": "Marmara",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Maiden%27s_Tower_%28K%C4%B1z_Kulesi%29.jpg/960px-Maiden%27s_Tower_%28K%C4%B1z_Kulesi%29.jpg",
+      "source": "wikimedia",
+      "license": "CC-BY-SA",
+      "author": "Wikimedia Commons",
+      "isTurkish": true,
+      "tags": [
+        "kule",
+        "bogaz",
+        "simge"
+      ],
+      "difficulty": 1
+    },
+    {
+      "id": "dolmabahce-01",
+      "name": "Dolmabahçe Sarayı",
+      "city": "İstanbul",
+      "region": "Marmara",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Entrance_to_Dolmabah%C3%A7e_Palace%2C_Architectural_Panorama.jpg/960px-Entrance_to_Dolmabah%C3%A7e_Palace%2C_Architectural_Panorama.jpg",
+      "source": "wikimedia",
+      "license": "CC-BY-SA",
+      "author": "Wikimedia Commons",
+      "isTurkish": true,
+      "tags": [
+        "saray",
+        "osmanli",
+        "bogaz"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "eiffel-01",
+      "name": "Eiffel Kulesi",
+      "city": "Paris",
+      "region": "Fransa",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Tour_Eiffel_Wikimedia_Commons.jpg/960px-Tour_Eiffel_Wikimedia_Commons.jpg",
+      "source": "wikimedia",
+      "license": "CC-BY-SA",
+      "author": "Wikimedia Commons",
+      "isTurkish": false,
+      "tags": [
+        "kule",
+        "fransa",
+        "paris"
+      ],
+      "difficulty": 1
+    },
+    {
+      "id": "kolezyum-01",
+      "name": "Kolezyum",
+      "city": "Roma",
+      "region": "İtalya",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Colosseum_in_Rome-April_2007-1-_copie_2B.jpg/960px-Colosseum_in_Rome-April_2007-1-_copie_2B.jpg",
+      "source": "wikimedia",
+      "license": "CC-BY-SA",
+      "author": "Wikimedia Commons",
+      "isTurkish": false,
+      "tags": [
+        "amfi tiyatro",
+        "roma",
+        "antik"
+      ],
+      "difficulty": 1
+    },
+    {
+      "id": "piramitler-01",
+      "name": "Giza Piramitleri",
+      "city": "Giza",
+      "region": "Mısır",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/All_Gizah_Pyramids.jpg/960px-All_Gizah_Pyramids.jpg",
+      "source": "wikimedia",
+      "license": "CC-BY-SA",
+      "author": "Wikimedia Commons",
+      "isTurkish": false,
+      "tags": [
+        "piramit",
+        "misir",
+        "antik"
+      ],
+      "difficulty": 1
+    },
+    {
+      "id": "taj-mahal-01",
+      "name": "Taj Mahal",
+      "city": "Agra",
+      "region": "Hindistan",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Taj_Mahal%2C_Agra%2C_India_edit2.jpg/960px-Taj_Mahal%2C_Agra%2C_India_edit2.jpg",
+      "source": "wikimedia",
+      "license": "CC-BY-SA",
+      "author": "Wikimedia Commons",
+      "isTurkish": false,
+      "tags": [
+        "mezar",
+        "beyaz mermer",
+        "hindistan"
+      ],
+      "difficulty": 1
+    },
+    {
+      "id": "china-wall-01",
+      "name": "Çin Seddi",
+      "city": "Beijing",
+      "region": "Çin",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Badaling_China_Great-Wall-of-China-01.jpg/960px-Badaling_China_Great-Wall-of-China-01.jpg",
+      "source": "wikimedia",
+      "license": "CC-BY-SA",
+      "author": "Wikimedia Commons",
+      "isTurkish": false,
+      "tags": [
+        "sür",
+        "çin",
+        "korsan"
+      ],
+      "difficulty": 1
+    },
+    {
+      "id": "statue-liberty-01",
+      "name": "Özgürlük Heykeli",
+      "city": "New York",
+      "region": "ABD",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Mytilene_Statue.jpg/960px-Mytilene_Statue.jpg",
+      "source": "wikimedia",
+      "license": "CC-BY-SA",
+      "author": "Wikimedia Commons",
+      "isTurkish": false,
+      "tags": [
+        "heykel",
+        "abd",
+        "new york"
+      ],
+      "difficulty": 1
+    },
+    {
+      "id": "sydney-opera-01",
+      "name": "Sydney Opera House",
+      "city": "Sydney",
+      "region": "Avustralya",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Sydney_Opera_House_-_Dec_2008.jpg/960px-Sydney_Opera_House_-_Dec_2008.jpg",
+      "source": "wikimedia",
+      "license": "CC-BY-SA",
+      "author": "Wikimedia Commons",
+      "isTurkish": false,
+      "tags": [
+        "tiyatro",
+        "avustralya",
+        "sydney"
+      ],
+      "difficulty": 1
+    },
+    {
+      "id": "big-ben-01",
+      "name": "Big Ben",
+      "city": "Londra",
+      "region": "İngiltere",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Big_Ben_at_sunset_-_2014-10-27_17-30.jpg/960px-Big_Ben_at_sunset_-_2014-10-27_17-30.jpg",
+      "source": "wikimedia",
+      "license": "CC-BY-SA",
+      "author": "Wikimedia Commons",
+      "isTurkish": false,
+      "tags": [
+        "kule saati",
+        "ingiltere",
+        "londra"
+      ],
+      "difficulty": 1
+    },
+    {
+      "id": "burj-khalifa-01",
+      "name": "Burj Khalifa",
+      "city": "Dubai",
+      "region": "BAE",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Burj_Khalifa_%2816260269606%29.jpg/960px-Burj_Khalifa_%2816260269606%29.jpg",
+      "source": "wikimedia",
+      "license": "CC-BY-SA",
+      "author": "Wikimedia Commons",
+      "isTurkish": false,
+      "tags": [
+        "gökdelen",
+        "dubai",
+        "bae"
+      ],
+      "difficulty": 1
+    },
+    {
+      "id": "leaning-pisa-01",
+      "name": "Pisa Eğik Kulesi",
+      "city": "Pisa",
+      "region": "İtalya",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Leaning_Tower_of_Pisa.jpg",
+      "source": "wikimedia",
+      "license": "CC-BY-SA",
+      "author": "Wikimedia Commons",
+      "isTurkish": false,
+      "tags": [
+        "eğik kule",
+        "italya",
+        "pisa"
+      ],
+      "difficulty": 1
+    },
+    {
+      "id": "anadolu-kalesi-01",
+      "name": "Anadolu Kalesi",
+      "city": "İstanbul",
+      "region": "Marmara",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Anadolu_Hisar%C4%B1_in_2024_%28cropped%29.jpg/960px-Anadolu_Hisar%C4%B1_in_2024_%28cropped%29.jpg",
+      "source": "wikimedia",
+      "license": "CC-BY-SA",
+      "author": "Wikimedia Commons",
+      "isTurkish": true,
+      "tags": [
+        "kale",
+        "boğaz",
+        "osmanlı"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "babadag-01",
+      "name": "Baba Dağı",
+      "city": "Fethiye",
+      "region": "Akdeniz",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Baba_Dagi_Wanderweg.png/960px-Baba_Dagi_Wanderweg.png",
+      "source": "wikimedia",
+      "license": "CC-BY-SA",
+      "author": "Wikimedia Commons",
+      "isTurkish": true,
+      "tags": [
+        "dağ",
+        "paragliding",
+        "fethiye"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "cemberlitas-01",
+      "name": "Çemberlitaş Hamamı",
+      "city": "İstanbul",
+      "region": "Marmara",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/%C3%87emberlita%C5%9F_Hamam%C4%B1%2C_Sultanahmet%2C_Estambul_6143951115.jpg/960px-%C3%87emberlita%C5%9F_Hamam%C4%B1%2C_Sultanahmet%2C_Estambul_6143951115.jpg",
+      "source": "wikimedia",
+      "license": "CC-BY-SA",
+      "author": "Wikimedia Commons",
+      "isTurkish": true,
+      "tags": [
+        "hamam",
+        "osmanlı",
+        "tarih"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "datca-01",
+      "name": "Datça",
+      "city": "Muğla",
+      "region": "Ege",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Dat%C3%A7a.jpg",
+      "source": "wikimedia",
+      "license": "CC-BY-SA",
+      "author": "Wikimedia Commons",
+      "isTurkish": true,
+      "tags": [
+        "plaj",
+        "ege",
+        "sakin"
+      ],
+      "difficulty": 1
+    },
+    {
+      "id": "emirgan-tulip-01",
+      "name": "Emirgan Parkı Lale Bahçesi",
+      "city": "İstanbul",
+      "region": "Marmara",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/%C4%B0stanbul.jpg/960px-%C4%B0stanbul.jpg",
+      "source": "wikimedia",
+      "license": "CC-BY-SA",
+      "author": "Wikimedia Commons",
+      "isTurkish": true,
+      "tags": [
+        "lale",
+        "bahce",
+        "istanbul"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "goreme-openair-01",
+      "name": "Göreme Açık Hava Müzesi",
+      "city": "Nevşehir",
+      "region": "İç Anadolu",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/G%C3%B6reme_Open_Air_Museum_01.jpg/960px-G%C3%B6reme_Open_Air_Museum_01.jpg",
+      "source": "wikimedia",
+      "license": "CC-BY-SA",
+      "author": "Wikimedia Commons",
+      "isTurkish": true,
+      "tags": [
+        "müze",
+        "kaya kilisesi",
+        "unesco"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "hagia-irene-01",
+      "name": "Aya İrini Kilisesi",
+      "city": "İstanbul",
+      "region": "Marmara",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Istanbul-Topkap%C4%B1_saray%C4%B1-Aya_%C4%B0rini_Kilisesi_-_panoramio.jpg/960px-Istanbul-Topkap%C4%B1_saray%C4%B1-Aya_%C4%B0rini_Kilisesi_-_panoramio.jpg",
+      "source": "wikimedia",
+      "license": "CC-BY-SA",
+      "author": "Wikimedia Commons",
+      "isTurkish": true,
+      "tags": [
+        "kilise",
+        "bizans",
+        "tarih"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "hierapolis-01",
+      "name": "Hierapolis Antik Kenti",
+      "city": "Denizli",
+      "region": "Ege",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Necropolis_of_Hierapolis_03.jpg/960px-Necropolis_of_Hierapolis_03.jpg",
+      "source": "wikimedia",
+      "license": "CC-BY-SA",
+      "author": "Wikimedia Commons",
+      "isTurkish": true,
+      "tags": [
+        "antik",
+        "pamukkale",
+        "roma"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "iskenderun-01",
+      "name": "İskenderun",
+      "city": "Hatay",
+      "region": "Akdeniz",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/City_View_of_Iskenderun_Turkey_-_panoramio.jpg/960px-City_View_of_Iskenderun_Turkey_-_panoramio.jpg",
+      "source": "wikimedia",
+      "license": "CC-BY-SA",
+      "author": "Wikimedia Commons",
+      "isTurkish": true,
+      "tags": [
+        "liman",
+        "hatay",
+        "akdeniz"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "istiklal-01",
+      "name": "İstiklal Caddesi",
+      "city": "İstanbul",
+      "region": "Marmara",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Istiklal_caddesi_2.jpg",
+      "source": "wikimedia",
+      "license": "CC-BY-SA",
+      "author": "Wikimedia Commons",
+      "isTurkish": true,
+      "tags": [
+        "caddesi",
+        "alısveris",
+        "istanbul"
+      ],
+      "difficulty": 1
+    },
+    {
+      "id": "kapudas-01",
+      "name": "Kapıdağ Yarımadası",
+      "city": "Balıkesir",
+      "region": "Marmara",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Bal%C4%B1kesir_City_Center_Collage.jpg",
+      "source": "wikimedia",
+      "license": "CC-BY-SA",
+      "author": "Wikimedia Commons",
+      "isTurkish": true,
+      "tags": [
+        "yarımada",
+        "marmara",
+        "tabiat"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "kizilirmak-01",
+      "name": "Kızılırmak",
+      "city": "",
+      "region": "İç Anadolu",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Bafra_k%C4%B1z%C4%B1l%C4%B1rmak_bridge%2C_k%C4%B1z%C4%B1l%C4%B1rmak_delta.jpg/960px-Bafra_k%C4%B1z%C4%B1l%C4%B1rmak_bridge%2C_k%C4%B1z%C4%B1l%C4%B1rmak_delta.jpg",
+      "source": "wikimedia",
+      "license": "CC-BY-SA",
+      "author": "Wikimedia Commons",
+      "isTurkish": true,
+      "tags": [
+        "nehir",
+        "en uzun",
+        "ic anadolu"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "konya-mevlana-01",
+      "name": "Mevlana Müzesi",
+      "city": "Konya",
+      "region": "İç Anadolu",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Mevlana_M%C3%BCzesi.jpg/960px-Mevlana_M%C3%BCzesi.jpg",
+      "source": "wikimedia",
+      "license": "CC-BY-SA",
+      "author": "Wikimedia Commons",
+      "isTurkish": true,
+      "tags": [
+        "mevlana",
+        "semah",
+        "konya"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "kusadasi-01",
+      "name": "Kuşadası",
+      "city": "Aydın",
+      "region": "Ege",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Ku%C5%9Fadas%C4%B1.jpg/960px-Ku%C5%9Fadas%C4%B1.jpg",
+      "source": "wikimedia",
+      "license": "CC-BY-SA",
+      "author": "Wikimedia Commons",
+      "isTurkish": true,
+      "tags": [
+        "plaj",
+        "ege",
+        "cruz"
+      ],
+      "difficulty": 1
+    },
+    {
+      "id": "mount-arta-01",
+      "name": "Büyük Ağrı Dağı",
+      "city": "Ağrı",
+      "region": "Doğu Anadolu",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Mount_Ararat.jpg/960px-Mount_Ararat.jpg",
+      "source": "wikimedia",
+      "license": "CC-BY-SA",
+      "author": "Wikimedia Commons",
+      "isTurkish": true,
+      "tags": [
+        "dağ",
+        "agri",
+        "noe"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "myra-01",
+      "name": "Myra Antik Kenti",
+      "city": "Demre",
+      "region": "Akdeniz",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Myra_Antik_Kenti.jpg/960px-Myra_Antik_Kenti.jpg",
+      "source": "wikimedia",
+      "license": "CC-BY-SA",
+      "author": "Wikimedia Commons",
+      "isTurkish": true,
+      "tags": [
+        "antik",
+        "lykya",
+        "demre"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "oludeniz-lagoon-01",
+      "name": "Ölüdeniz Lagunu",
+      "city": "Muğla",
+      "region": "Akdeniz",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Mu%C4%9Fla.jpg/960px-Mu%C4%9Fla.jpg",
+      "source": "wikimedia",
+      "license": "CC-BY-SA",
+      "author": "Wikimedia Commons",
+      "isTurkish": true,
+      "tags": [
+        "lagun",
+        "mavi",
+        "paragliding"
+      ],
+      "difficulty": 1
+    },
+    {
+      "id": "rumeli-kalesi-01",
+      "name": "Rumeli Kalesi",
+      "city": "İstanbul",
+      "region": "Marmara",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/%C4%B0stanbul.jpg/960px-%C4%B0stanbul.jpg",
+      "source": "wikimedia",
+      "license": "CC-BY-SA",
+      "author": "Wikimedia Commons",
+      "isTurkish": true,
+      "tags": [
+        "kale",
+        "fatih",
+        "bogaz"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "assos-01",
+      "name": "Assos Antik Kenti",
+      "city": "Çanakkale",
+      "region": "Ege",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Assos.jpg/960px-Assos.jpg",
+      "source": "wikimedia",
+      "license": "CC-BY-SA",
+      "author": "Wikimedia Commons",
+      "isTurkish": true,
+      "tags": [
+        "antik",
+        "aristoteles",
+        "canakkale"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "sumela-valley-01",
+      "name": "Altındere Vadisi",
+      "city": "Trabzon",
+      "region": "Karadeniz",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Alt%C4%B1ndere_Valley.jpg/960px-Alt%C4%B1ndere_Valley.jpg",
+      "source": "wikimedia",
+      "license": "CC-BY-SA",
+      "author": "Wikimedia Commons",
+      "isTurkish": true,
+      "tags": [
+        "vadis",
+        "sumela",
+        "karadeniz"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "acropolis-01",
+      "name": "Akropol",
+      "city": "Atina",
+      "region": "Yunanistan",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Acropolis_of_Athens.jpg/960px-Acropolis_of_Athens.jpg",
+      "source": "wikimedia",
+      "license": "CC-BY-SA",
+      "author": "Wikimedia Commons",
+      "isTurkish": false,
+      "tags": [
+        "antik",
+        "yunanistan",
+        "atena"
+      ],
+      "difficulty": 1
+    },
+    {
+      "id": "brandenburg-01",
+      "name": "Brandenburg Kapısı",
+      "city": "Berlin",
+      "region": "Almanya",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Brandenburg_Gate.jpg/960px-Brandenburg_Gate.jpg",
+      "source": "wikimedia",
+      "license": "CC-BY-SA",
+      "author": "Wikimedia Commons",
+      "isTurkish": false,
+      "tags": [
+        "kapi",
+        "almanya",
+        "berlin"
+      ],
+      "difficulty": 1
+    },
+    {
+      "id": "christ-redeemer-01",
+      "name": "Christ the Redeemer",
+      "city": "Rio de Janeiro",
+      "region": "Brezilya",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Christ_the_Redeemer_-_Cristo_Redentor.jpg/960px-Christ_the_Redeemer_-_Cristo_Redentor.jpg",
+      "source": "wikimedia",
+      "license": "CC-BY-SA",
+      "author": "Wikimedia Commons",
+      "isTurkish": false,
+      "tags": [
+        "heykel",
+        "brezilya",
+        "rio"
+      ],
+      "difficulty": 1
+    },
+    {
+      "id": "disney-castle-01",
+      "name": "Cinderella Castle",
+      "city": "Orlando",
+      "region": "ABD",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Cinderella_Castle.jpg/960px-Cinderella_Castle.jpg",
+      "source": "wikimedia",
+      "license": "CC-BY-SA",
+      "author": "Wikimedia Commons",
+      "isTurkish": false,
+      "tags": [
+        "kale",
+        "disney",
+        "abd"
+      ],
+      "difficulty": 1
+    },
+    {
+      "id": "grand-canyon-01",
+      "name": "Grand Canyon",
+      "city": "Arizona",
+      "region": "ABD",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Grand_Canyon_South_Rim_at_Sunset.jpg/960px-Grand_Canyon_South_Rim_at_Sunset.jpg",
+      "source": "wikimedia",
+      "license": "CC-BY-SA",
+      "author": "Wikimedia Commons",
+      "isTurkish": false,
+      "tags": [
+        "kanyon",
+        "tabiat",
+        "abd"
+      ],
+      "difficulty": 1
+    },
+    {
+      "id": "mount-fuji-01",
+      "name": "Fuji Dağı",
+      "city": "",
+      "region": "Japonya",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Grumman_E-2C_Hawkeyes_of_VAW-115_fly_past_Mount_Fuji_on_15_February_2007_%28070215-N-2604L-024%29.jpg/960px-Grumman_E-2C_Hawkeyes_of_VAW-115_fly_past_Mount_Fuji_on_15_February_2007_%28070215-N-2604L-024%29.jpg",
+      "source": "wikimedia",
+      "license": "CC-BY-SA",
+      "author": "Wikimedia Commons",
+      "isTurkish": false,
+      "tags": [
+        "dağ",
+        "japonya",
+        "fuji"
+      ],
+      "difficulty": 1
+    },
+    {
+      "id": "niagara-01",
+      "name": "Niagara Şelalesi",
+      "city": "",
+      "region": "Kanada/ABD",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Maid_of_the_Mist_-_pot-o-gold.jpg/960px-Maid_of_the_Mist_-_pot-o-gold.jpg",
+      "source": "wikimedia",
+      "license": "CC-BY-SA",
+      "author": "Wikimedia Commons",
+      "isTurkish": false,
+      "tags": [
+        "selale",
+        "tabiat",
+        "kanada"
+      ],
+      "difficulty": 1
+    },
+    {
+      "id": "stonehenge-01",
+      "name": "Stonehenge",
+      "city": "Wiltshire",
+      "region": "İngiltere",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Stonehenge_Heel_Stone.jpg/960px-Stonehenge_Heel_Stone.jpg",
+      "source": "wikimedia",
+      "license": "CC-BY-SA",
+      "author": "Wikimedia Commons",
+      "isTurkish": false,
+      "tags": [
+        "tas dargasi",
+        "ingiltere",
+        "tarih"
+      ],
+      "difficulty": 1
+    },
+    {
+      "id": "times-square-01",
+      "name": "Times Square",
+      "city": "New York",
+      "region": "ABD",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Times_Square_Ball_from_above.jpg/960px-Times_Square_Ball_from_above.jpg",
+      "source": "wikimedia",
+      "license": "CC-BY-SA",
+      "author": "Wikimedia Commons",
+      "isTurkish": false,
+      "tags": [
+        "meydan",
+        "new york",
+        "abd"
+      ],
+      "difficulty": 1
+    },
+    {
+      "id": "uluru-01",
+      "name": "Uluru",
+      "city": "",
+      "region": "Avustralya",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Petermann_Ranges_%28AU%29%2C_Uluru-Kata_Tjuta_National_Park%2C_Uluru%2C_Kuniya_Walk_--_2019_--_3674.jpg/960px-Petermann_Ranges_%28AU%29%2C_Uluru-Kata_Tjuta_National_Park%2C_Uluru%2C_Kuniya_Walk_--_2019_--_3674.jpg",
+      "source": "wikimedia",
+      "license": "CC-BY-SA",
+      "author": "Wikimedia Commons",
+      "isTurkish": false,
+      "tags": [
+        "kaya",
+        "avustralya",
+        "tabiat"
+      ],
+      "difficulty": 1
+    }
+  ]
+}
